@@ -33,5 +33,5 @@ jobs:
       with:
         app-name: 'cus-por'
         slot-name: 'production'
-        publish-profile: ${{ secrets.AzureAppService_PublishProfile_5b6580bc06604227a975bdf487d3bdd0 }}
+        publish-profile: ${{ secrets.AzureAppService_PublishProfile_78d4803facb64c598043eb2b2780c4ba }}
         package: \published\
